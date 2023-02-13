@@ -7,7 +7,6 @@ using namespace std::chrono;
 
 int cnt = 0;
 
-
 void Merge(int arr[], int start, int mid, int end){
     int i = start;
     int j = mid+1;

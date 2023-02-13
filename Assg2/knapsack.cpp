@@ -1,6 +1,12 @@
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
+/*
+Name : Pratik K. Rathod
+Roll No : 321056
+PRN No: 22010885
+*/
+
 int t[100][100];
 
 int KnapsackRecursion(int wt[], int val[], int W, int n)

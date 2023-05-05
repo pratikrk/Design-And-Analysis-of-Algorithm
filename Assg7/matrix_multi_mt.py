@@ -38,6 +38,7 @@ start_time = time.time()
 result = multiply_matrices(A, B)
 end_time = time.time()
 
+#
 print(f"Multiplication took {end_time - start_time:.2f} seconds")
 
 print(multiply_matrices(A, B))

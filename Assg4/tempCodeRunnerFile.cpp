@@ -192,3 +192,6 @@ int main(){
     cout<<"\nTotal travel cost: "<<total_cost;
     return 0;
 }
+                    //         %   
+                    //     /       \
+                    //   /  \     /  \

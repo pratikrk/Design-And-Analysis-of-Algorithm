@@ -30,7 +30,6 @@ def philosopher(id):
         left_chopstick.release()
         right_chopstick.release()
 
-        # Return to thinking
         print(f"Philosopher {id} is done eating and returning to thinking.")
 
 # Create philosopher threads
